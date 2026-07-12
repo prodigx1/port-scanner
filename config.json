@@ -1,0 +1,17 @@
+{
+    "temp": {
+        "url_using": "",
+        "last_url": ""
+    },
+
+    "ports": {
+        "ports-exception": [],
+        "ports-priority": [],
+        "ports-range": [1, 100000]
+    },
+
+    "acessiblity": {
+        "save-archive": 1
+    }
+
+}
